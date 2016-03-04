@@ -4,7 +4,7 @@ title: "My first project"
 description: ""
 category: projects
 
-tags: [HTML, CSS]
+tags: [html, css]
 ---
 {% include JB/setup %}
 

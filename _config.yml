@@ -11,8 +11,8 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : My Blog :)
-tagline: Site Tagline
+title : My Portfolio
+tagline: This is my portfolio displaying all the cool projects I've created through out my path on web development
 author :
   name : Fernando Gomez
   email : hello@fhergomez.com
@@ -82,7 +82,7 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  comments :
+  comments : 
     provider : disqus
     disqus :
       short_name : jekyllbootstrap

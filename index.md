@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Portfolio
-tagline: Supporting tagline
+tagline: Recent projects
 ---
 {% include JB/setup %}
 

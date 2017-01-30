@@ -4,12 +4,4 @@ title: Who am I?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+My name is Fernando Gomez, and I'm trying my best to be a Front End Developer. At the moment, I'm going through [#100daysofcode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4#.5ka5luz9d)

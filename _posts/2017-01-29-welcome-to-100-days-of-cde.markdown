@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my blog!"
+title:  "100 Days of Code!"
 date:   2017-01-29 23:34:10 -0400
 categories: 100 days of Code
 ---

@@ -4,8 +4,13 @@ title:  "100 Days of Code!"
 date:   2017-01-29 23:34:10 -0400
 categories: 100 days of Code
 ---
+### Day 1: January 30, 2017
 
-# Coming Soon!
+This is my first day of #100daysofcode. I decided to start this challenge because for the last year I've been doing lots of tutorials, and I want to start making projects so I can get a job as a Front End Developer. Also, I wanted to do this challenge because I needed a distraction of what is going on arount the globe regarding DT. It was stressing me out, so I'm back to coding. Today I worked on the Random Quote App from freeCodeCamp.com. I was able to get random background colors and the color to match.
+
+**mood**: feeling good for being first day.
+
+**project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

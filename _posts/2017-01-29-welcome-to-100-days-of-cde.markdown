@@ -12,6 +12,14 @@ This is my first day of #100daysofcode. I decided to start this challenge becaus
 
 **project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
 
+=======
+
+### Day 2: January 31, Tuesday
+
+Today I implemented buttons and twitter icon on the Random Quote App. I did a bit of Javascript to change the background of the buttons, but I haven't started on the Random Quote API. I was feeling a bit under the weather, so hopefully tomorrow, I will be able to work more on JS.
+
+**mood**: feeling a bit under the weather (sick), so I couldn't advance very much on the app.
+
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 
 [//]: # (To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.)

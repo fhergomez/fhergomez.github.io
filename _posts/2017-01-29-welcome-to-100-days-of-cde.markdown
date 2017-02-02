@@ -12,7 +12,7 @@ This is my first day of #100daysofcode. I decided to start this challenge becaus
 
 **project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
 
-=======
+---
 
 ### Day 2: January 31, Tuesday
 

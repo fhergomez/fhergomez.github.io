@@ -23,6 +23,17 @@ Today I implemented buttons and twitter icon on the Random Quote App. I did a bi
 
 **project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
 
+---
+
+
+### day 3: February 1, Wednsday
+
+At first I wasn't sure how I was going to implement the API into my app, but after going through a [tutorial](https://www.udacity.com/course/intro-to-ajax--ud110) on Udacity, things became a lot clearer. The buttons are not fully functional, and that's what I'm planning to work on tomorrow morning.
+
+**mood**: I was feeling a little better than yesterday in regards to the cold that I have, and I was able to concentrate more on the JavaScript side. Overall I was feeling happy and eagered to learn new stuff.
+
+**project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
+
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

@@ -26,7 +26,7 @@ Today I implemented buttons and twitter icon on the Random Quote App. I did a bi
 ---
 
 
-### day 3: February 1, Wednsday
+### day 3: February 1, Wednesday
 
 At first I wasn't sure how I was going to implement the API into my app, but after going through a [tutorial](https://www.udacity.com/course/intro-to-ajax--ud110) on Udacity, things became a lot clearer. The buttons are not fully functional, and that's what I'm planning to work on tomorrow morning.
 

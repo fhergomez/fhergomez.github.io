@@ -14,6 +14,7 @@ This is my first day of #100daysofcode. I decided to start this challenge becaus
 
 ---
 
+
 ### Day 2: January 31, Tuesday
 
 Today I implemented buttons and twitter icon on the Random Quote App. I did a bit of Javascript to change the background of the buttons, but I haven't started on the Random Quote API. I was feeling a bit under the weather, so hopefully tomorrow, I will be able to work more on JS.

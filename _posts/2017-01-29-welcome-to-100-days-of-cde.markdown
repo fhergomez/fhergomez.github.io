@@ -46,6 +46,14 @@ Tried to finish the Random Quote App, but I couldn't get to re-tweet the quote. 
 
 ---
 
+### Day 5: February 3, Friday
+
+Finished the Random Quote App by implementing some images in the background, and I was able to retweet the quote to my tweeter account. Now I'm on to the next challenge in FreeCodeCamp.com which is the Local Weather App.
+
+**mood**: I was feeling really good, I coded for about 4 hours and I couldnt stop. I wanted to keep going but it's 2 AM, and I need to get some sleep...zzzz!!
+
+**project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
+
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

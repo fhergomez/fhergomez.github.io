@@ -34,6 +34,18 @@ At first I wasn't sure how I was going to implement the API into my app, but aft
 
 **project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
 
+---
+
+### Day 4: February 2, Thursday
+
+Tried to finish the Random Quote App, but I couldn't get to re-tweet the quote. I will work on it a little more on Friday. If anybody has any ideas how to do this or where I can go to learn about it, I appreciate it.
+
+**mood**: I'm still a little sick, but I was able to code for a little bit more than an hour. Donald Trump is still stressing me out.
+
+**project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
+
+---
+
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

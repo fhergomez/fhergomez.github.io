@@ -54,6 +54,16 @@ Finished the Random Quote App by implementing some images in the background, and
 
 **project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
 
+---
+
+### Day 6: February 4, Saturday
+
+Today I started the Weather App, so most of my time today was to get it ready and look at some examples for the App.
+
+**mood**: Since it was Saturday, I decided to only code for a little bit, but I was feeling good and a little anxious to watch the Super Bowl on Sunday. I don't know if I'm going to find the time to code tomorrow with this anxiety....GO FALCONS!! Falcons 35 - New England 20
+
+**project**: [Weather App](http://www.fernandogomez.io/weatherApp/)
+
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

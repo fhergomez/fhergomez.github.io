@@ -86,7 +86,7 @@ Worked a little more on the Weather App, I'm still trying to figure out which AP
 
 ---
 
-### Day 9: February 6, Tuesday
+### Day 9: February 7, Tuesday
 
 I'm still having trouble which API to use, but I think I finally found good documentation from the Accuweather API.
 

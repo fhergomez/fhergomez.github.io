@@ -74,6 +74,16 @@ Working on the Weather App, I've been looking for the right weather API, but I'm
 
 **project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
 
+---
+
+### Day 8: February 6, Monday
+
+Worked a little more on the Weather App, I'm still trying to figure out which API to use, and work on design and color.
+
+**mood**: I didn't make too much progress. Work for about an hour, but I was a little tired since I work most of the day.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

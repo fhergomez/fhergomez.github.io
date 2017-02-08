@@ -84,6 +84,16 @@ Worked a little more on the Weather App, I'm still trying to figure out which AP
 
 **project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
 
+---
+
+### Day 9: February 6, Tuesday
+
+I'm still having trouble which API to use, but I think I finally found good documentation from the Accuweather API.
+
+**mood**: I've been working all day for the last 2 days, so I haven't been coding as much as I want. I've been a little tired, and I haven't been able to stay awake more more than an hour. I've been trying to code more than an hour the last 2 days, but sleep is getting the best of me. Today and tomorrow I'll be working all day again, so I don't think I'll be advancing too much.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

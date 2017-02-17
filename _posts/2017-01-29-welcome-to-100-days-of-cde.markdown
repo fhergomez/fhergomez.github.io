@@ -104,7 +104,87 @@ I'm having so much trouble with the API, I can't seem to be able to bring in the
 
 **project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
 
+---
 
+### Day 11: February 9, Thursday
+
+I'm still having trouble with the weather API. I can't get the object to from openweather.org.
+
+**mood**: Not feeling too good. It's been a long week, and I'm really tired. My job is making me work a lot, and I can't concentrate too much on code. :(
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+---
+
+### Day 12: February 10, Friday
+
+I'm still trying to get the API to work, and it's getting very frustrating.
+
+**mood**: Not in the mood to code. I'm not getting any results, so this is the times when I feel I'm not a good developer. It's so furstrating!!! ;(
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+---
+
+### Day 13: February 11, Saturday
+
+Not very much progress. I guess I'm having a lot of difficulty understanding the documentation. I'm having a little problem understanding what is the difference between $.ajax and $.getJSON, so I'm doing some reading about it.
+
+**mood**: I'm tired and I just want to rest. ;(
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+---
+
+### Day 14: February 12, Sunday
+
+Today I worked a little on the front end. I was experimenting a little with the css and implementing bootstap into the project.
+
+**mood**: I felt a little better than the last couple of days, but I'm still tired from my job. ;|
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+---
+
+### Day 15: February 13, Monday
+
+Today I wasn't able to work on the project a lot, so I did some reading on JavaScript regarding APIs.
+
+**mood**: I wasn't in the mood to code at all.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+---
+
+### Day 16: February 14, Tuesday
+
+I totally changed my approach to tackle the problem I've been having with the API, so I've been looking at some examples on Codepen to see how other people have been doing their app. I was able to learn a lot, and hopefully tomorrow I'll be able to get the weather to show up on the page.
+
+**mood**: I felt much better today. I was able to learn a lot by looking at other people's projects, and that help me out a lot...it busted my confidence a bit.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+---
+
+### Day 17: February 15, Wednesday
+
+Worked on the API, and I was able to connect, but now I'm having trouble retrieving the right input from the input field. I'm not sure what could be wrong. I'm asking on Gitter and hopefully I'll get an answer soon.
+
+**mood**: Feeling good since I was able to get the API to show up, but frustrated at the same time because of not getting the right input back.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+---
+
+### Day 18: February 16, Thursday
+
+It took me a while to figure out what I was doing wrong regarding the value of the input field, and why I wasn't getting the correct results, but I finally was able to resolve the issue. I will be working on displaying the data on the page.
+
+**mood**: I was in a great mood because I finally was able to advance a whole lot on the app. Tomorrow hopefully I'll be able to display the data...I'm getting some of my confidence back!!!
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+---
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

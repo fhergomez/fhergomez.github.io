@@ -206,6 +206,14 @@ Today I'm trying to work on the front end and geolocation. I'm not sure what to 
 
 ---
 
+### Day 21: February 29, Sunday
+
+I was able to get geolocation working, and show up on the front end. Now I'll be working on putting all the info in the front end of the app.
+
+**mood**: I'm coming down with a cold, so I didn't fee very good trying to get my code to work. I'll probably feel worst tomorrow, so I'm not sure how I'm going to get any coding done.
+
+---
+
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 
 [//]: # (To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.)

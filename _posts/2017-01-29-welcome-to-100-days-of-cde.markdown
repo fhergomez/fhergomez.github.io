@@ -206,7 +206,7 @@ Today I'm trying to work on the front end and geolocation. I'm not sure what to 
 
 ---
 
-### Day 21: February 29, Sunday
+### Day 21: February 19, Sunday
 
 I was able to get geolocation working, and show up on the front end. Now I'll be working on putting all the info in the front end of the app.
 

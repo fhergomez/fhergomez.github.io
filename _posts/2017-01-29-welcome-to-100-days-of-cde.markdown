@@ -212,7 +212,17 @@ I was able to get geolocation working, and show up on the front end. Now I'll be
 
 **mood**: I'm coming down with a cold, so I didn't fee very good trying to get my code to work. I'll probably feel worst tomorrow, so I'm not sure how I'm going to get any coding done.
 
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
 ---
+
+### Day 22: February 20, Monday
+
+Not very much was done because of my cold, but I was able to work a little more on js trying to get the right values from the api.
+
+**mood**: feeling pretty sick. not in the mood to code at all.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

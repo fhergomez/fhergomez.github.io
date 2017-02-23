@@ -224,6 +224,29 @@ Not very much was done because of my cold, but I was able to work a little more 
 
 **project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
 
+---
+
+### Day 23: February 21, Tuesday
+
+Today I work on the toggle button to change Fehrenheit to Celsius and vice-versa. I wasn't able to figure it out by myself. I did get some help from Stack-Overflow and watching a video from youtube.
+
+**mood**: I still have a cold, but I was able to code for more than 2 hours. I was feeling good.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+---
+
+### Day 24: February 22, Wednesday
+
+My toggle button was having some difficulties because it was triggering multiple times everytime it was being clicked. I was able to figure it out with the bind() method.
+
+**mood**: Feeling much better. my cold is almost gone, and the weekend is almost here. :)
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+---
+
+
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 
 [//]: # (To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.)

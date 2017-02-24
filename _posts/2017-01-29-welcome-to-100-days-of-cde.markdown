@@ -226,21 +226,11 @@ Not very much was done because of my cold, but I was able to work a little more 
 
 ---
 
-### Day 23: February 21, Tuesday
+### Day 25: February 23, Thursday
 
-Today I work on the toggle button to change Fehrenheit to Celsius and vice-versa. I wasn't able to figure it out by myself. I did get some help from Stack-Overflow and watching a video from youtube.
+I've been trying to display the 7 day forecast, but I haven't been successful. The requisites for the app are all done, but I want to add a little more info.
 
-**mood**: I still have a cold, but I was able to code for more than 2 hours. I was feeling good.
-
-**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
-
----
-
-### Day 24: February 22, Wednesday
-
-My toggle button was having some difficulties because it was triggering multiple times everytime it was being clicked. I was able to figure it out with the bind() method.
-
-**mood**: Feeling much better. my cold is almost gone, and the weekend is almost here. :)
+**mood**: Today I finally I got over my cold...feeling good about coding.
 
 **project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
 

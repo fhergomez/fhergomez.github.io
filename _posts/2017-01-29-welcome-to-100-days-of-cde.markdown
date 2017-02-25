@@ -236,6 +236,14 @@ I've been trying to display the 7 day forecast, but I haven't been successful. T
 
 ---
 
+### Day 26: February 24, Friday
+
+I'm still looking for a way to display the 7 day forecast. I spent a few minutes only trying to figure it out, but I still not able to do it. I'm afraid it's going to take me a while.
+
+**mood**: Feeling good with lots of energy and willingness to learn how to itirate through an object.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

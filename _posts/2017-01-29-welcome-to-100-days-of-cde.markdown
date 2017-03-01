@@ -244,6 +244,16 @@ I'm still looking for a way to display the 7 day forecast. I spent a few minutes
 
 **project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
 
+---
+
+### Day 27: February 28, Tuesday
+
+I had to take 3 days off because I went on vacation for 3 days, so hopefully this doesn't mean I have to start over. I went back to the Weather App, and I'm still trying to display the 7 day forecast. I'm not sure if I should iterate through the object or what. I've been looking through some youtube videos for some examples, but I still haven't found what I've been looking for.
+
+**mood**: At first, I was feeling like wanting to quit coding because I wasn't sure if I was going to be able to get a solution for the app on how to display the 7 day forecast, but once I got started I couldn't stop. I still haven't figured it out, but it was fun looking through all the videos, and some MDN documentation regarding Objects and how to iterate through them.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

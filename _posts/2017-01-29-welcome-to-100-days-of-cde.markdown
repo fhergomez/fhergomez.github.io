@@ -254,6 +254,16 @@ I had to take 3 days off because I went on vacation for 3 days, so hopefully thi
 
 **project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
 
+---
+
+### Day 28: March 1, Wednesday
+
+Worked on the Weather App....I was able to bring in the weekday from the Date() method using the Unix Timestamp from the API.
+
+**mood**: feeling a bit tired from work, but was able to code for about and hour and a half. I felt pretty good.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

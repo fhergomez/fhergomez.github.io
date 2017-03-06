@@ -268,11 +268,21 @@ Worked on the Weather App....I was able to bring in the weekday from the Date() 
 
 ### Day 29: March 2, Thursday
 
-Finished the Weather App for now. I think it's functional, but as far as design, I will work on it a little bit later after I finsih the 100 days of code.
+Finished the Weather App for now. I think it's functional, but as far as design, I will work on it a little bit later after I finsih the 100 days of code challenge.
 
 **mood**: I was feeling good, but was falling asleep because it was a bit late when I was coding.
 
 **project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+---
+
+### Day 30: March 3, Friday
+
+Today I started working on the Wikipedia Viewer App for FreeCodeCamp. I'm dealing with the setup and looking at some examples.
+
+**mood**: It's Friday, so not in the mood to code. Feeling a little lazy, but doing my best to work for at least 1 hour.
+
+**project**:[Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
 
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)

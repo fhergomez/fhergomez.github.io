@@ -282,7 +282,17 @@ Today I started working on the Wikipedia Viewer App for FreeCodeCamp. I'm dealin
 
 **mood**: It's Friday, so not in the mood to code. Feeling a little lazy, but doing my best to work for at least 1 hour.
 
-**project**:[Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
+**project**: [Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
+
+---
+
+### Day 31: March 4, Sunday
+
+As you can see, I skipped a day, but I'd had to say I had to take another break because I was invited for wine tasting in Woodinville, WA, and I couldn't resist....I LOVE WINE!! Anyways, today I did some finishing touches to the Weather App and worked on the Wikipedia Viewer App using HTML, CSS, and JS.
+
+**mood**: I felt a little anxious. I feel anxious because every time I start a new project I'm not sure where to start. I'm all over the place, and then I start getting lots of information and looking at examples that would help me with the project.
+
+**project**: [Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
 
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)

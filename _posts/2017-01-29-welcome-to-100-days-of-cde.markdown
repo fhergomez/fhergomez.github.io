@@ -304,6 +304,16 @@ Worked on the Wikipedia Viewer App, but I can't get the data to appear on the si
 
 **project**: [Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
 
+---
+
+### Day 33: March 6, Tuesday
+
+I was able to bring the data from the API to the front end, and now is all about getting it on the page and put on some styling.
+
+**mood**: I was a little tired because I had to work late, but I was able to put on a little more than an hour of code.
+
+**project**: [Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
+
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

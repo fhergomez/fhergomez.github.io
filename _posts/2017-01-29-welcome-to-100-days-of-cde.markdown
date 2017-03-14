@@ -384,6 +384,16 @@ I worked on the styling of the Wikipedia Viewer App, and I was finally able to f
 
 **project**: [Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
 
+---
+
+### Day 39: March 13 Monday
+
+Today I started the TwitcTV JSON API project, so mostly what I did today was setup the project and make sure all the files were loading correctly as well as the CDNs.
+
+**mood**: I was a little tired from work, but I was able to code for half an hour.
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/
+
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 
 [//]: # (To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.)

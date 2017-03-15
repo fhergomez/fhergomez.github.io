@@ -394,6 +394,17 @@ Today I started the TwitcTV JSON API project, so mostly what I did today was set
 
 **project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
 
+---
+
+### Day 40: March 14: Tuesday
+
+I mostly did research for the Twitch API, but seems a like I need a client ID to be able to get the API to function. I'm still not sure what I need to do for the project, but as I read more, about it, the cleare it's getting.
+
+**mood**: feeling confused because I'm not sure I understand what I need to do for the project.
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
+
+
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 
 [//]: # (To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.)

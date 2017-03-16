@@ -404,6 +404,17 @@ I mostly did research for the Twitch API, but seems a like I need a client ID to
 
 **project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
 
+---
+
+### Day 41: March 15: Wednesday
+
+Today I spent most of the time trying to get the API to work, but apparently the website is not working, so I'm going to come back to this project and leave it as a pending project. Apparently, freeCodeCamp is getting rid of this project soon.
+
+**mood**: frustrated at times because I didn't know what I supoosed to be doing with this project and because the API wasn't working.
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
+
+
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

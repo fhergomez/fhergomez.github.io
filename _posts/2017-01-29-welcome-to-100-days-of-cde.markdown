@@ -508,6 +508,12 @@ I finally was able to align the right status with the user. Now I'm moving on to
 
 ### Day 50: March 26, Sunday
 
+I finished the TwitchTV JSON API App, and now I'll move on to the next section of freeCodeCamp which is Intermedium Algorithm Scripts.
+
+**mood**: feeling good because I was able to finish the project without giving up.
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
+
 ---
 
 

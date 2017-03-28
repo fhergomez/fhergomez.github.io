@@ -508,13 +508,21 @@ I finally was able to align the right status with the user. Now I'm moving on to
 
 ### Day 50: March 26, Sunday
 
-I finished the TwitchTV JSON API App, and now I'll move on to the next section of freeCodeCamp which is Intermedium Algorithm Scripts.
+I finished the TwitchTV JSON API App, and now I'll move on to the next section of freeCodeCamp which is Intermediate Algorithm Scripts.
 
 **mood**: feeling good because I was able to finish the project without giving up.
 
 **project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
 
 ---
+
+### Day 51: March 27, Monday
+
+Today I started on intermediate Alorithm Scripts on freeCodeCamp. I'm working on the sum of all numbers in a range, but I haven't been able to figure it out. I will try again tomorrow.
+
+**mood**: Feeling good and excited to start the algorithms.
+
+**project**: [Sum of all numbers in a Range](**link coming soon**)
 
 
 

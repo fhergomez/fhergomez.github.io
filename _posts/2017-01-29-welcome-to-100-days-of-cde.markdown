@@ -524,7 +524,86 @@ Today I started on intermediate Alorithm Scripts on freeCodeCamp. I'm working on
 
 **project**: [Sum of all numbers in a Range](**link coming soon**)
 
+---
 
+### Day 52: March 28, Tuesday
+
+Today I spent lots of time on the Sum of all numbers in a range Algorithm from freeCodeCamp.com, and I was able to figure it out but with some help from StockOverflow.com.
+
+**mood**: Felt stupid because I couldn't figure out the problem by myself.
+
+**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
+
+---
+
+### Day 53: March 29, Wednesday
+
+I didn't code for too much today because I was a bit tired since I had to work all day. I started on the Difference between two Arrays. Lets see how I do tomorrow.
+
+**mood**: very tired!!
+
+**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
+
+---
+
+### Day 54: March 30, Thursday
+
+Today was another long day, so I wasn't able to advance much because I was very tired. I was able to code for half an hour working on the difference between two arrays Algorithm, but didn't get much work done.
+
+**mood**: tired and dissapointed at myself for not finishing the Algorithm.
+
+**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
+
+---
+
+### Day 55: March 31, Friday
+
+I work on the front end of the project. I'm trying something that I'm not sure if I'm going to be able to do it with all the Algorithms; but I'm trying to get the input from the user and then show the output on the front end.
+
+**mood**: I was able to work on the front end for a little bit, but since it was Friday, I only work on it for about 30 minutes.
+
+**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
+
+---
+
+### Day 56: April 1, Saturday
+
+Today I decided to quit because I don't thing I'm good enough to code...............................................................................................................................................................................................JK!!! APRIL FOOL'S DAY!!
+I worked on the Front end for a bit, and I'm not sure how I'm going to orginize all the algorithms, but I think it's going to be a challenge trying to bring all the algorithms' output to the front.
+
+**mood**: feeling happy and creative!!
+
+**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
+
+---
+
+### Day 57: April 2, Sunday
+
+Worked on the difference between two arrays, and I was able to finish with a little help from google and youtube.
+
+**mood**: I'm not sure how I'm feeling. I feel like I'm cheating asking for answers on Google, but I just can't figure it out by myself. I start going in the right direction, but I just can't finish to figure out the whole algorithm.
+
+**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
+
+---
+
+### Day 58: April 3, Monday
+
+I started on the Roman numeral converter Algorithm, and it's pretty hard. I'm not sure where to start, so I'm seeking for answers.
+
+**mood**: feeling stupid and frustrated again for not being able to figure out the answer of the algorithm by myself.
+
+**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
+
+---
+
+### Day 59: April 4, Tuesday
+
+Today I finished the Roman numeral converter Algorithm but with a little help from Youtube.  I don't think I would've been able to solve it by myself. It was pretty difficult. I wasn't even close to the way the solution was shown on the video.
+
+**mood**: Very rested, and not feeling good morally regarding code. I feel like quitting because I'm having trouble figuring out the algorithms.
+
+**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
 
 
 

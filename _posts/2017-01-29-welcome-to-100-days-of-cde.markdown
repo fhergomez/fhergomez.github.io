@@ -522,17 +522,17 @@ Today I started on intermediate Alorithm Scripts on freeCodeCamp. I'm working on
 
 **mood**: Feeling good and excited to start the algorithms.
 
-**project**: [Sum of all numbers in a Range](**link coming soon**)
+**project**: [Intermidiate Algorithms](**link coming soon**)
 
 ---
 
-### Day 52: March 28, Tuesday
+Intermidiate Algorithms
 
 Today I spent lots of time on the Sum of all numbers in a range Algorithm from freeCodeCamp.com, and I was able to figure it out but with some help from StockOverflow.com.
 
 **mood**: Felt stupid because I couldn't figure out the problem by myself.
 
-**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
+**project**: [Intermidiate Algorithms](http://www.fernandogomez.io/IntermediateAlgorithms/)
 
 ---
 
@@ -542,7 +542,7 @@ I didn't code for too much today because I was a bit tired since I had to work a
 
 **mood**: very tired!!
 
-**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
+**project**: [Intermidiate Algorithms](http://www.fernandogomez.io/IntermediateAlgorithms/)
 
 ---
 
@@ -552,7 +552,7 @@ Today was another long day, so I wasn't able to advance much because I was very 
 
 **mood**: tired and dissapointed at myself for not finishing the Algorithm.
 
-**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
+**project**: [Intermidiate Algorithms](http://www.fernandogomez.io/IntermediateAlgorithms/)
 
 ---
 
@@ -562,7 +562,7 @@ I work on the front end of the project. I'm trying something that I'm not sure i
 
 **mood**: I was able to work on the front end for a little bit, but since it was Friday, I only work on it for about 30 minutes.
 
-**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
+**project**: [Intermidiate Algorithms](http://www.fernandogomez.io/IntermediateAlgorithms/)
 
 ---
 
@@ -573,7 +573,7 @@ I worked on the Front end for a bit, and I'm not sure how I'm going to orginize 
 
 **mood**: feeling happy and creative!!
 
-**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
+**project**: [Intermidiate Algorithms](http://www.fernandogomez.io/IntermediateAlgorithms/)
 
 ---
 
@@ -583,7 +583,7 @@ Worked on the difference between two arrays, and I was able to finish with a lit
 
 **mood**: I'm not sure how I'm feeling. I feel like I'm cheating asking for answers on Google, but I just can't figure it out by myself. I start going in the right direction, but I just can't finish to figure out the whole algorithm.
 
-**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
+**project**: [Intermidiate Algorithms](http://www.fernandogomez.io/IntermediateAlgorithms/)
 
 ---
 
@@ -593,7 +593,7 @@ I started on the Roman numeral converter Algorithm, and it's pretty hard. I'm no
 
 **mood**: feeling stupid and frustrated again for not being able to figure out the answer of the algorithm by myself.
 
-**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
+**project**: [Intermediate Algorith](http://www.fernandogomez.io/IntermediateAlgorithms/)
 
 ---
 
@@ -603,7 +603,7 @@ Today I finished the Roman numeral converter Algorithm but with a little help fr
 
 **mood**: Very rested, and not feeling good morally regarding code. I feel like quitting because I'm having trouble figuring out the algorithms.
 
-**project**: [Sum of all numbers in a Range](http://www.fernandogomez.io/IntermediateAlgorithms/)
+**project**: [Intermediate Algorith](http://www.fernandogomez.io/IntermediateAlgorithms/)
 
 ---
 

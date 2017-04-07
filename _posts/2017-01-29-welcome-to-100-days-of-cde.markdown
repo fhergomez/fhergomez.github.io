@@ -615,6 +615,17 @@ I took it ease today. I did half an hour of code, but I was able to solve the ne
 
 **project**: [Intermediate Algorithms](http://www.fernandogomez.io/IntermediateAlgorithms/)
 
+---
+
+### Day 61: April 6, Thursday
+
+Today I work on the Algorithm Search and Replace, and it wasn't actually as hard as I thought it would be. I did get help...but who doesn't :)
+Anyways, it's a struggle to go through all this algorithms specially for someone like me whom I conssider a novice to programming. There's always lots of room to grow.
+
+**mood**: Frustrated because I can't solve any of this algorithms by myself.
+
+**project**: [Intermediate Algorithms](http://www.fernandogomez.io/IntermediateAlgorithms/)
+
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

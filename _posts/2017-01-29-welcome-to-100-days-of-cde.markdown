@@ -609,6 +609,11 @@ Today I finished the Roman numeral converter Algorithm but with a little help fr
 
 ### Day 60: April 5, Wednesday
 
+I took it ease today. I did half an hour of code, but I was able to solve the next Algorithm (wherefore art thou) with a little hlep from StackOverflow.com
+
+**mood**: tired and not in the mood to code
+
+**project**: [Intermediate Algorithms](http://www.fernandogomez.io/IntermediateAlgorithms/)
 
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)

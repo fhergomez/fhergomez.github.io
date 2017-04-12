@@ -626,6 +626,58 @@ Anyways, it's a struggle to go through all this algorithms specially for someone
 
 **project**: [Intermediate Algorithms](http://www.fernandogomez.io/IntermediateAlgorithms/)
 
+---
+
+### Day 62: April 7, Friday
+
+Worked on the Pig Latin Algorithm, but I was only able to work for half an hour on it. I will try to solve it tomorrow.
+
+**mood**: tired because it's Friday.
+
+**project**: [Intermediate Algorithms](http://www.fernandogomez.io/IntermediateAlgorithms/)
+
+---
+
+### Day 63: April 8, Saturday
+
+I couldn't work much on the Pig Latin Algorithm today because I started applying for developer jobs, so I worked on my resume and cover letter. I decided that it's time for me to start applying for jobs. I did get half an hour of freeCodeCamp, but not enouth to solve the algorithm.
+
+**mood**: Feeling anxious and nervous because just thinking about interviews it stresses me out.
+
+**project**: [Intermediate Algorithms](http://www.fernandogomez.io/IntermediateAlgorithms/)
+
+---
+
+### day 64: April 9, Sunday
+
+Worked most of the day on resume and applying for jobs, so there was no coding involved.
+
+**mood**: feeling guilty for not coding for at least half an hour.
+
+**project**: [Resume]()
+
+---
+
+### day 65: April 10, Monday
+
+Today I did work for at least half an hour on the Pig Latin Algorithm, and I was able to solve it...of course with a little bit of help from Youtube. I also started a 30 day coding challenge on HackerRank.com. There's a different challenge every day.
+
+**mood**: feeling good and frustrated.
+
+**project**: [Intermediate Algorithms](http://www.fernandogomez.io/IntermediateAlgorithms/)
+
+---
+
+### day 66: April 11, Tuesday
+
+I'm worked on Data Types on HackerRank.com, and also went to codeAcademy to review FizzFuzz just in case I'm asked to solve it in one of the interviews.
+
+**mood**: tired and not in the mood to code.
+
+**projects**: [Fizz Buzz](https://www.codecademy.com/courses/fizzbuzz/0/1)
+
+---
+
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

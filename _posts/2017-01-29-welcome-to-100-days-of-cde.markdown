@@ -678,6 +678,17 @@ I'm worked on Data Types on HackerRank.com, and also went to codeAcademy to revi
 
 ---
 
+### day 67: April 12, Wednesday
+
+I work on the next DNA Pairing Algorithm from freeCodeCamp, and I'd have to say that was pretty hard like the rest of them.
+
+**mood**: tired and confused.
+
+**projects**: [Intermediate Algorithms](http://www.fernandogomez.io/)
+
+---
+
+
 
 [//]: # (You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.)
 

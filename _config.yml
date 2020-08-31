@@ -7,7 +7,7 @@
 
 # Site settings
 title: My blog
-email: hello@fernandogomez.io
+email: hellogomezf@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Here I will be describing my journey of coding for the next 100 days of code. You're welcome to follow me, and as I progress, hopefully I'll be able to figure out how to add comments to this blog. For the meantime, you can email me if you have any suggestions or ideas on how I can add comments to this blog.
 baseurl: "" # the subpath of your site, e.g. /blog
